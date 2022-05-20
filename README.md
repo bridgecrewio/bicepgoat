@@ -18,7 +18,7 @@ BicepGoat follows the tradition of existing *Goat projects that provide a baseli
 
 **Where to get help:** the [Bridgecrew Community Slack](https://slack.bridgecrew.io/?utm_source=github&utm_medium=organic_oss&utm_campaign=bicepgoat)
 
-Before you proceed please take a not of these warning:
+Before you proceed please take a note of these warning:
 > :warning: BicepGoat creates intentionally vulnerable Azure resources into your account. **DO NOT deploy BicepGoat in a production environment or alongside any sensitive Azure resources.**
 
 ## Bridgecrew's IaC herd of goats
